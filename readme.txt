@@ -5,3 +5,4 @@ Git tracks changes of files
 Git good
 Creating a new branch is quick.
 wangyulong
+Creating a new branch is quick & simple.
